@@ -217,6 +217,7 @@
     # -k: column ordering 
     # -t : tab separted indicator
     ```
+    
 13. Uniq: 
     ```
         uniq
