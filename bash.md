@@ -104,7 +104,6 @@
     echo "${countries[@]}"
     # First one is array, second one is element being added to array. 
 
-
     while read country
     do 
         countries+=($country)
