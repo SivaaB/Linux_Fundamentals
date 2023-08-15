@@ -125,7 +125,7 @@
     echo ${#elements[@]}
     # counts - "#"
     ```
-    
+
 10. Cut
 
     ```
